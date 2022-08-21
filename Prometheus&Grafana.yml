@@ -1,0 +1,50 @@
+Docker Node Exporter | Grafana | Prometheus | Complete | scrape | Monitoring:
+
+! Pokud neexistuje adresář, potom vytvořit v /etc
+/etc/prometheus a v něm vytvořil soubor prometheus.yml, 
+a HLAVNĚ, NAHRÁT TENTO SOUBOR DO HOME (např. /home/MartinoCentos/ )
+který bude obsahovat toto:
+
+global:
+  scrape_interval: 5s
+  external_labels:
+    monitor: 'node'
+scrape_configs:
+  - job_name: 'prometheus' 
+    static_configs: 
+      - targets: ['192.168.6.104:9090'] ## IP Address of the localhost
+  - job_name: 'node-exporter' 
+    static_configs: 
+      - targets: ['192.168.6.104:9100'] ## IP Address of the localhost
+
+A V NĚM SPUSTIT NÁSLEDUJÍCÍ PŘÍKAZY!!!
+
+Instalace Node exporter:
+************************
+docker run -d \
+  --net="host" \
+  --pid="host" \
+  -v "/:/host:ro,rslave" \
+  quay.io/prometheus/node-exporter:latest \
+  --path.rootfs=/host
+  
+Prometheus - install
+********************
+docker run -d --name prometheus -p 9090:9090 -v $PWD/prometheus.yml:/etc/prometheus/prometheus.yml prom/prometheus
+
+GRAFANA:
+********
+docker run -d --name=grafana -p 3000:3000 grafana/grafana
+
+Nastavení Grafana
+*****************
+- přihlásit se do - localhost:3000 (login: admin, pass: admin)
+
+- kliknout na "Data Sources" - kliknout na Prometheus
+  a zadat do pole URL => http://192.168.6.112:9090 (Prometheus)
+
+- kliknout na "+" a dát import via grafana.com => https://grafana.com/grafana/dashboards/1860
+
+- číslo vložit do prvního řádku a dát "load" - viz screenshot
+
+HOTOVO!
