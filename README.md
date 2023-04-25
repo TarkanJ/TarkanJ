@@ -2,8 +2,8 @@
 - 👀 I’m interested in DevOps engineering, Kubernetes, Terraform, sometimes programming in C, C#, C++, Java, Python...PASCAL! :DDD
 - 🌱 I’m looking forward to enjoying a trip to Milano
 - 💞️ I’m looking to collaborate on whatever is now fancy :)
-- 📫 How to reach me on Instagram or tarkanjj@gmail.com
-- SPRING is HERE AND...We should enjoy the sun as much as we can ;)
+- 📫 How to reach me -> on tarkanjj@gmail.com or on Instagram
+- - SPRING is HERE AND...We should enjoy the sun as much as we can ;)
 - :) Last update on 25.4.2023
 <!--
 TarkanJ/TarkanJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
