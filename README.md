@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TarkanJ
-- 👀 I’m interested in DevOps Engineering, Kubernetes, Terraform, sometimes programming in C, C#, C++, Java, Python...PASCAL! :DDD
+- 👀 I’m interested in DevOps engineering, Kubernetes, Terraform, sometimes programming in C, C#, C++, Java, Python...PASCAL! :DDD
 - 🌱 I’m looking forward to enjoying a trip to Milano
 - 💞️ I’m looking to collaborate on whatever is now fancy :)
 - 📫 How to reach me on Instagram or tarkanjj@gmail.com
