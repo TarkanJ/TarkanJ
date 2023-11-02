@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate on whatever is now fancy :)
 - 📫 How to reach me -> on tarkanjj@gmail.com or on Instagram
 - Working on a NEW PROJECT!
+- Now learning how to be Developer Leader, so we'll see!!! ;)
 <!-- SUMMER is HERE, YEEAAAY FINALLY!!! AND...We should enjoy 🍺the SUN as much as we can ;)
 < - 🎂 SLOWLY MY BIRTHDAY IS COMMING!!!🎉🎉🎉 -->
 - :) Last update on 30.10.2023
