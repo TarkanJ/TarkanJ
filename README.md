@@ -3,14 +3,12 @@
 - 💞️ I’m looking to collaborate on whatever is now fancy :)
 - 📫 How to reach me -> on tarkanjj@gmail.com or on Instagram
 - Working on a NEW PROJECT!
-- Today is fine day, yeay"
-- ALL THE BEST TO THE NEW YEAR 2024! <3
 <!-- SUMMER is HERE, YEEAAAY FINALLY!!! AND...We should enjoy 🍺the SUN as much as we can ;)
 < - 🎂 SLOWLY MY BIRTHDAY IS COMMING!!!🎉🎉🎉
   - HAPPY HALLOWEEN!!! 👻👻👻
 -->
 
-- :) Last update on 10.1.2024
+- :) Last update on 22th february 2024
 
 <!--
 TarkanJ/TarkanJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
