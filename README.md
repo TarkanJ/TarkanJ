@@ -7,9 +7,6 @@
 < - 🎂 SLOWLY MY BIRTHDAY IS COMMING!!!🎉🎉🎉
   - HAPPY HALLOWEEN!!! 👻👻👻
 -->
-
-- :) Last update on 22th february 2024
-
 <!--
 TarkanJ/TarkanJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
