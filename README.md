@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on whatever is now fancy :)
 - 📫 How to reach me -> on tarkanjj@gmail.com or on Instagram
 - Working on a NEW PROJECT!
-- the WEATHER must be joking with me! :(
+- SUMMER is GONE! :(
 <!-- SUMMER is HERE, YEEAAAY FINALLY!!! AND...We should enjoy 🍺the SUN as much as we can ;)
 < - 🎂 SLOWLY MY BIRTHDAY IS COMMING!!!🎉🎉🎉
   - HAPPY HALLOWEEN!!! 👻👻👻
