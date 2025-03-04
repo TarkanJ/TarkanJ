@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on whatever is now fancy :)
 - 📫 How to reach me -> on tarkanjj@gmail.com or on Instagram
 - FINISHED THE CS50!!!
-- SUMMER is GONE! :(
+- SUNNY DAYS ARE AHEAD!!! :)
 <!-- SUMMER is HERE, YEEAAAY FINALLY!!! AND...We should enjoy 🍺the SUN as much as we can ;)
 < - 🎂 SLOWLY MY BIRTHDAY IS COMMING!!!🎉🎉🎉
   - HAPPY HALLOWEEN!!! 👻👻👻
