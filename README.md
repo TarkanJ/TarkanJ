@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Martino
-- 👀 I’m interested in DevOps Engineering, Kubernetes, Terraform, sometimes programming in Python, C, Java,
-- C++, C#, ...PASCAL! :DDD
+- 👀 I’m interested in DevOps Engineering, Kubernetes, Terraform, sometimes programming in
+- Python, C, Java, C++, C#, ...PASCAL! :DDD
 - 💞️ I’m looking to collaborate on whatever is now fancy :)
 - 📫 How to reach me -> on tarkanjj@gmail.com or on Instagram
 - FINISHED THE CS50!!!
