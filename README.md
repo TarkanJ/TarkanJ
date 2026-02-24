@@ -3,7 +3,7 @@
 - Python, C, Java, C++, C#, ...PASCAL! :DDD
 - 💞️ I’m looking to collaborate on whatever is now fancy :)
 - 📫 How to reach me -> on tarkanjj@gmail.com or on Instagram
-- 🎄 Wish You a Merry Christmass :)
+- 🎄 Spring is behind a corner! :)
 <!-- SUMMER is HERE, YEEAAAY FINALLY!!! AND...We should enjoy 🍺the SUN as much as we can ;)
 < - 🎂 SLOWLY MY BIRTHDAY IS COMMING!!!🎉🎉🎉
   - HAPPY HALLOWEEN!!! 👻👻👻
