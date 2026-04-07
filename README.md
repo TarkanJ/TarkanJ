@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Martino
+- 👋 Hi, I’m Martino
 - 👀 I’m interested in DevOps Engineering, Kubernetes, Terraform, sometimes programming in
 - ⚡Python, C, Java, C++, C#, ...PASCAL! :DDD
 - 💞️ I’m looking to collaborate on whatever is now fancy :)
