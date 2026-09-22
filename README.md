@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Martino
 - 👀 I’m interested in DevOps Engineering, Kubernetes, Terraform, sometimes programming in
 - ⚡Python, C, Java, C++, C#, ...PASCAL! 😄
-- 💞️ I’m looking to collaborate on whatever is now fancy :)
+- 💞️ I’m looking to collaborate on whateveri is interesting ;)
 - 📫 How to reach me -> on tarkanjj@gmail.com or on Instagram
-- ☀️ SUMMER is GONE!😭 Enjoying a 🚁 DRONE and 🌞 as much as I can ;)
+- ☀️ SUMMER is GONE!😭 Enjoying a 🚁 DRONE and 🌞 as much as I can :)
 <!-- Summer is around the corner ! :)
  SUMMER is HERE, YEEAAAY FINALLY!!! AND...We should enjoy 🍺the SUN as much as we can ;)
 < - 🎂 SLOWLY MY BIRTHDAY IS COMMING!!!🎉🎉🎉
